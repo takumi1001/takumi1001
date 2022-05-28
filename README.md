@@ -1,6 +1,11 @@
 # 田村匠 / Takumi TAMURA
 機械学習やNLPとかに興味があります．
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=takumi1001&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=takumi1001)
+
+
+
 ## 所属
 筑波大学情報学群情報メディア創成学類　3年
 
