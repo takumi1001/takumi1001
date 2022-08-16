@@ -27,4 +27,4 @@
 
 - 2021.2-3 北陸先端科学技術大学院大学(JAIST) [由井薗研究室](http://www.jaist.ac.jp/ks/labs/yuizono/)インターン
 - 2021.4-6 [高専ワイヤレスIoTコンテスト2021 (WiCON2021)](https://kosen-iot-contest.jp/)
-- 2022.8 セキュリティ・キャンプ全国大会2022 Dクラス:AIセキュリティコース 修了
+- 2022.8 [セキュリティ・キャンプ全国大会2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html) Dクラス:AIセキュリティコース 修了
